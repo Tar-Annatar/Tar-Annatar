@@ -5,7 +5,7 @@
 <br>
 
 <h4 align="center">
-  😀 This is my main account - I use this for important storage, key projects and collaboratory work !
+  😀 This is my main account - I use this for important storage, key projects and collab work !
   <br>Check out my alt account over at <a href="https://github.com/VV-Apps">HurinThalion134</a> and my <a href="https://example.com">website</a> too  </br>
 </h4>
 

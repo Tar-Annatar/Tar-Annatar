@@ -24,9 +24,9 @@
 
 ### About Me 🌟
 ![Static Badge](https://img.shields.io/badge/NUSH_Alumni-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/VV-Apps/Readme)
-![GitHub watchers](https://img.shields.io/github/watchers/VV-Apps/Readme)
-![GitHub followers](https://img.shields.io/github/followers/VV-Apps)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tar-Annatar/Readme)
+![GitHub watchers](https://img.shields.io/github/watchers/Tar-Annatar/Readme)
+![GitHub followers](https://img.shields.io/github/followers/Tar-Annatar)
 
  - Recently graduated from high school (Singapore)
  - Like to code small extensions and projects for self-user or projects

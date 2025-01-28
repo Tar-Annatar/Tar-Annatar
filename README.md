@@ -54,4 +54,5 @@
 
 > <a href="" download>Download my resume</a>
 
+ 
 ![Snake animation](https://github.com/Tar-Annatar/Tar-Annatar/blob/output/github-contribution-grid-snake.svg)

@@ -29,7 +29,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Tar-Annatar)
 
  - Recently graduated from high school (Singapore)
- - Like to code small extensions and projects for self-user or projects
+ - Like to code small extensions, apps or functional code for self-use or projects
 
 ### CS Interests 💻
   - Bioinformatics

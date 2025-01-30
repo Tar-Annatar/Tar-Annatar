@@ -46,8 +46,8 @@
   - English, Tamil (Beta Testing: Spanish, Hindi)
 
 ### Websites 👨‍💻
-  - Cooking in the oven
-
+  - Main Portfolio webpage: In the oven 😀
+  - CS50 Project, very first Render deployment: [![Static Badge](https://img.shields.io/badge/LINK-blue)](https://base-station-hl7p.onrender.com/login)
 ### Resume
 > [!NOTE]
 > Still in the works

@@ -38,7 +38,7 @@
 ### Hobbies 🙌
   - Reading books (Currently reading Hitchicker's Guide to the Galaxy & War and Peace)
   - Philosophy (Informal discussions with mentors and friends)
-  - Running (Quite new, like exploring me neighbourhood on the way)
+  - Running (Quite new, like exploring my neighbourhood on the way)
   - Movies (At my peak, I got through 3 movies in a day)
 
 ### Languages 📣

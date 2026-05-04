@@ -23,7 +23,7 @@
 </p>
 
 ### About Me 🌟
-![Static Badge](https://img.shields.io/badge/NUSH_Alumni-blue)
+![Static Badge](https://img.shields.io/badge/LKC-Medicine-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Tar-Annatar/Tar-Annatar)
 ![GitHub watchers](https://img.shields.io/github/watchers/Tar-Annatar/Tar-Annatar)
 ![GitHub followers](https://img.shields.io/github/followers/Tar-Annatar)

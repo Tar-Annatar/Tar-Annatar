@@ -25,29 +25,23 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Tar-Annatar/Tar-Annatar)
 ![GitHub followers](https://img.shields.io/github/followers/Tar-Annatar)
 
- - Recently graduated from high school (Singapore)
  - Like to code small extensions, apps or functional code for self-use or projects
 
 ### CS Interests 💻
   - Bioinformatics
   - AI/ML techniques for large-data
 
-### Hobbies 🙌
-  - Reading books (Currently reading Hitchicker's Guide to the Galaxy & War and Peace)
-  - Philosophy (Informal discussions with mentors and friends)
-  - Running (Quite new, like exploring my neighbourhood on the way)
-  - Movies (At my peak, I got through 3 movies in a day)
-
 ### Languages 📣
 [![Languages](https://skillicons.dev/icons?i=py,github,git,mysql,java,html,css,bootstrap)](https://skillicons.dev)
-  - English, Tamil (Beta Testing: Spanish, Hindi)
+  - English, Tamil
 
 ### Websites 👨‍💻
   - Main Portfolio webpage: In the oven 😀
-  - CS50 Project, very first Render deployment: [![Static Badge](https://img.shields.io/badge/LINK-blue)](https://base-station-hl7p.onrender.com/login)
+  <!-- - CS50 Project, very first Render deployment: [![Static Badge](https://img.shields.io/badge/LINK-blue)](https://base-station-hl7p.onrender.com/login) !-->
+
 ### Resume
 > [!NOTE]
-> Still in the works
+> Redacted
 
 > <a href="" download>Download my resume</a>
 

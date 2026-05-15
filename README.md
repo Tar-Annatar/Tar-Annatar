@@ -6,14 +6,11 @@
 
 <h4 align="center">
   😀 This is my main account - I use this for important storage, key projects and collab work !
-  <br>Check out my alt account over at <a href="https://github.com/VV-Apps">HurinThalion134</a> and my <a href="">website (NOT available yet)</a> too  </br>
 </h4>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vignesh-nush/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://medium.com/@tarannatar13"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
- <a href="mailto:tarannatar13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:M250106@e.ntu.edu.sg"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 <br />
